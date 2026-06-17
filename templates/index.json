@@ -97,7 +97,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Youngevity",
+            "text": "Be Bold. Be Beautiful. Be U Trendy",
             "text_size": 20,
             "link": ""
           }
@@ -114,7 +114,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#111111",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -126,7 +126,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT Youngevity",
+            "heading": "At Be U Trendy",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -134,7 +134,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>we believe that confidence begins with a healthy smile. Our mission is to create innovative, easy-to-use oral care solutions that help you maintain professional-level hygiene from the comfort of your home.</p><p>We combine modern technology with thoughtful design to deliver products that are effective, safe, and convenient for everyday use. From powerful sonic cleaning to user-friendly features, every Youngevity product is crafted to support your journey toward better oral health.</p>",
+            "text": "<p> we believe beauty is about confidence, self-expression, and embracing what makes you unique. Our mission is to bring you trendy, high-quality makeup and beauty essentials that help you look and feel your best every day.</p><p>From everyday beauty must-haves to the latest makeup trends, we carefully select products that combine style, quality, and affordability. Whether you're creating a natural look or a bold statement, Be U Trendy is here to inspire your beauty journey.</p><p>Because beauty isn't about being someone else—it's about being you, confidently and beautifully.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -173,7 +173,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO YOUNGEVITY",
+            "text": "Your Beauty, Your Style, Your Trend. Discover the Be U Trendy Difference",
             "text_size": 20,
             "link": ""
           }
@@ -190,7 +190,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#111111",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -202,22 +202,22 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
+            "title": "Are your products safe to use?",
+            "text": "<p><br/>Yes! We carefully select high-quality beauty products that are safe and suitable for everyday use.<br/><br/></p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.<br/></p>"
+            "title": "How long does delivery take?",
+            "text": "<p>Our standard delivery time is <strong>5–7 business days</strong>, depending on your location.<br/><br/></p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.<br/></p>"
+            "title": "How can I contact customer support?",
+            "text": "<p>You can easily reach us through <strong>WhatsApp</strong> for any questions, order updates, or product recommendations.<br/><br/></p>"
           }
         }
       },
