@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">💡 LED Light-Up Mirror</span> – Perfect for applying makeup clearly anytime, anywhere.<br><br>\n\n<span style=\"font-weight: bold;\">🎨 3 Color Light Modes</span> – Switch between different lighting modes for day, night, or natural makeup looks.<br><br>\n\n<span style=\"font-weight: bold;\">👜 Spacious Makeup Organizer</span> – Keep your cosmetics, brushes, and beauty essentials neatly stored in one place.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Waterproof PU Leather</span> – Stylish, durable, and easy to clean for daily use or travel.\n\n</div>"
+            "custom_liquid": "<style>\n  .pain-pad-benefits {\n    max-width: 760px;\n    margin: 20px auto;\n    padding: 20px 18px;\n    border: 2px solid #3159d9;\n    border-radius: 6px;\n    background: #fafbff;\n    font-family: inherit;\n    color: #2a2d38;\n  }\n\n  .pain-pad-benefit {\n    display: flex;\n    align-items: flex-start;\n    gap: 12px;\n    margin-bottom: 24px;\n    font-size: 16px;\n    line-height: 1.6;\n  }\n\n  .pain-pad-benefit:last-child {\n    margin-bottom: 0;\n  }\n\n  .pain-pad-icon {\n    font-size: 20px;\n    line-height: 1.3;\n    flex-shrink: 0;\n  }\n\n  .pain-pad-benefit strong {\n    font-size: 17px;\n    font-weight: 700;\n    color: #242733;\n  }\n\n  @media screen and (max-width: 749px) {\n    .pain-pad-benefits {\n      padding: 18px 16px;\n      border-width: 2px;\n    }\n\n    .pain-pad-benefit {\n      gap: 9px;\n      margin-bottom: 20px;\n      font-size: 15px;\n    }\n\n    .pain-pad-benefit strong {\n      font-size: 16px;\n    }\n\n    .pain-pad-icon {\n      font-size: 19px;\n    }\n  }\n</style>\n\n<div class=\"pain-pad-benefits\">\n\n  <div class=\"pain-pad-benefit\">\n    <span class=\"pain-pad-icon\">🔥</span>\n    <div>\n      <strong>Soothing Heat Relief</strong> – Delivers gentle warmth for comforting relief during period cramps and lower-abdominal discomfort.\n    </div>\n  </div>\n\n  <div class=\"pain-pad-benefit\">\n    <span class=\"pain-pad-icon\">🌡️</span>\n    <div>\n      <strong>Adjustable Heat Levels</strong> – Choose the temperature that feels best for your personal comfort and relaxation.\n    </div>\n  </div>\n\n  <div class=\"pain-pad-benefit\">\n    <span class=\"pain-pad-icon\">🔋</span>\n    <div>\n      <strong>Portable & Rechargeable</strong> – Easy to use at home, while studying, at work, or when traveling.\n    </div>\n  </div>\n\n  <div class=\"pain-pad-benefit\">\n    <span class=\"pain-pad-icon\">💗</span>\n    <div>\n      <strong>Soft Comfortable Fit</strong> – Designed to sit comfortably on the lower stomach or lower back for everyday use.\n    </div>\n  </div>\n\n</div>"
           }
         },
         "variant_picker": {
@@ -199,7 +199,7 @@
         "show_divider": false,
         "use_custom_colors": true,
         "colors_icon": "#111111",
-        "colors_text": "#FFFFFF",
+        "colors_text": "#ffffff",
         "colors_background": "#111111",
         "gradient_background": "",
         "padding_top": 36,
@@ -212,7 +212,7 @@
         "heading_LAXHGL": {
           "type": "heading",
           "settings": {
-            "heading": "Your Beauty Corner, Anywhere",
+            "heading": "Comfort When You Need It Most",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -220,7 +220,7 @@
         "text_aPFrXK": {
           "type": "text",
           "settings": {
-            "text": "<p>Take your makeup routine wherever life takes you. This stylish makeup bag features a built-in LED mirror and spacious storage, making it easy to stay organized and look your best at all times.</p><h3></h3>",
+            "text": "<p>Take soothing warmth wherever life takes you. This portable period pain relief pad is designed to bring comforting heat to your lower stomach or back, helping you feel more relaxed at home, while studying, at work, or on the go.</p><p></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -232,7 +232,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1779192334_phpedauacpf5hfv0uWfdY8.webp",
+        "image": "shopify://shop_images/1759344662_phpho0muvsj61ip8BsJE3D.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -246,6 +246,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -281,7 +282,7 @@
         "show_divider": false,
         "use_custom_colors": true,
         "colors_icon": "#111111",
-        "colors_text": "#FFFFFF",
+        "colors_text": "#ffffff",
         "colors_background": "#111111",
         "gradient_background": "",
         "padding_top": 36,
@@ -294,7 +295,7 @@
         "heading_UEtkkV": {
           "type": "heading",
           "settings": {
-            "heading": "Travel Smart, Glow Brighter",
+            "heading": "Your Personal Comfort Zone",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -302,7 +303,7 @@
         "text_iGKNLq": {
           "type": "text",
           "settings": {
-            "text": "<p>Designed for beauty lovers on the go, this makeup organizer combines elegance, convenience, and functionality. With adjustable lighting and durable waterproof material, it's the perfect companion for every trip.</p>",
+            "text": "<p><br/>Designed to bring gentle warmth and everyday comfort whenever you need it. Whether you are relaxing at home, studying, working, or traveling, this portable heating pad helps make difficult days feel a little easier.<br/><br/></p><p></p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -314,7 +315,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1779192333_phpte6h6qhq4hroeyp0K7v.webp",
+        "image": "shopify://shop_images/1759344633_php8lc2o6om4rq27zn4UgQ.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -328,6 +329,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -347,60 +349,9 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<style>\n.compare-table{\nwidth:100%;\nborder-collapse:collapse;\nfont-size:15px;\nmargin:20px 0;\nborder-radius:12px;\noverflow:hidden;\n}\n.compare-table th{\nbackground:#111;\ncolor:#fff;\npadding:14px;\ntext-align:center;\n}\n.compare-table td{\npadding:12px;\nborder-bottom:1px solid #eee;\ntext-align:center;\n}\n.compare-table tr:nth-child(even){\nbackground:#f9f9f9;\n}\n</style>\n\n<table class=\"compare-table\">\n<tr>\n<th>Features</th>\n<th>Our Makeup Bag</th>\n<th>Others</th>\n</tr>\n\n<tr>\n<td>LED Mirror Included</td>\n<td> Yes</td>\n<td> No</td>\n</tr>\n\n<tr>\n<td>3 Light Modes</td>\n<td> Yes</td>\n<td> No</td>\n</tr>\n\n<tr>\n<td>Spacious Storage</td>\n<td> Yes</td>\n<td> No</td>\n</tr>\n\n<tr>\n<td>Waterproof Material</td>\n<td> Yes</td>\n<td> No</td>\n</tr>\n\n<tr>\n<td>Travel-Friendly Design</td>\n<td> Yes</td>\n<td> No</td>\n</tr>\n\n<tr>\n<td>Easy To Clean</td>\n<td> Yes</td>\n<td> No</td>\n</tr>\n\n<tr>\n<td>Premium Look & Feel</td>\n<td> Yes</td>\n<td> No</td>\n</tr>\n</table>",
+        "custom_liquid": "<style>\n  .pain-pad-comparison {\n    max-width: 1280px;\n    margin: 20px auto;\n    font-family: inherit;\n    background: #fafbff;\n    color: #2a2d38;\n  }\n\n  .pain-pad-comparison table {\n    width: 100%;\n    border-collapse: collapse;\n    text-align: center;\n  }\n\n  .pain-pad-comparison th {\n    background: #111216;\n    color: #ffffff;\n    padding: 24px 15px;\n    font-size: 18px;\n    font-weight: 700;\n  }\n\n  .pain-pad-comparison th:first-child {\n    border-radius: 18px 0 0 0;\n  }\n\n  .pain-pad-comparison th:last-child {\n    border-radius: 0 18px 0 0;\n  }\n\n  .pain-pad-comparison td {\n    padding: 24px 15px;\n    border-bottom: 1px solid #e6e6ea;\n    font-size: 17px;\n    line-height: 1.4;\n  }\n\n  .pain-pad-comparison td:first-child {\n    width: 45%;\n  }\n\n  .pain-pad-comparison td:nth-child(2),\n  .pain-pad-comparison td:nth-child(3) {\n    width: 27.5%;\n  }\n\n  .pain-pad-yes {\n    font-weight: 500;\n  }\n\n  .pain-pad-no {\n    color: #393b44;\n  }\n\n  @media screen and (max-width: 749px) {\n    .pain-pad-comparison th {\n      padding: 16px 8px;\n      font-size: 13px;\n    }\n\n    .pain-pad-comparison td {\n      padding: 18px 8px;\n      font-size: 14px;\n    }\n\n    .pain-pad-comparison td:first-child {\n      width: 46%;\n    }\n\n    .pain-pad-comparison td:nth-child(2),\n    .pain-pad-comparison td:nth-child(3) {\n      width: 27%;\n    }\n  }\n</style>\n\n<div class=\"pain-pad-comparison\">\n  <table>\n    <thead>\n      <tr>\n        <th>Features</th>\n        <th>Our Pain Relief Pad</th>\n        <th>Others</th>\n      </tr>\n    </thead>\n\n    <tbody>\n      <tr>\n        <td>Wearable Hands-Free Design</td>\n        <td class=\"pain-pad-yes\">Yes</td>\n        <td class=\"pain-pad-no\">No</td>\n      </tr>\n\n      <tr>\n        <td>Adjustable Heat Levels</td>\n        <td class=\"pain-pad-yes\">Yes</td>\n        <td class=\"pain-pad-no\">No</td>\n      </tr>\n\n      <tr>\n        <td>Rechargeable & Cordless</td>\n        <td class=\"pain-pad-yes\">Yes</td>\n        <td class=\"pain-pad-no\">No</td>\n      </tr>\n\n      <tr>\n        <td>Targeted Lower-Stomach Comfort</td>\n        <td class=\"pain-pad-yes\">Yes</td>\n        <td class=\"pain-pad-no\">No</td>\n      </tr>\n\n      <tr>\n        <td>Soft Adjustable Belt</td>\n        <td class=\"pain-pad-yes\">Yes</td>\n        <td class=\"pain-pad-no\">No</td>\n      </tr>\n\n      <tr>\n        <td>Portable Travel-Friendly Design</td>\n        <td class=\"pain-pad-yes\">Yes</td>\n        <td class=\"pain-pad-no\">No</td>\n      </tr>\n\n      <tr>\n        <td>Reusable for Everyday Use</td>\n        <td class=\"pain-pad-yes\">Yes</td>\n        <td class=\"pain-pad-no\">No</td>\n      </tr>\n    </tbody>\n  </table>\n</div>",
         "full_width": false,
         "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "faq_nqzJ3i": {
-      "type": "faq",
-      "blocks": {
-        "question_tG7eHr": {
-          "type": "question",
-          "settings": {
-            "title": "Is the LED mirror rechargeable?",
-            "text": "<p>Yes, the built-in LED mirror is rechargeable and designed for convenient everyday use.</p><p></p>"
-          }
-        },
-        "question_zGVbgk": {
-          "type": "question",
-          "settings": {
-            "title": "Is it a good gift idea?",
-            "text": "<p>Yes! It's a stylish and practical gift for makeup lovers, travelers, and beauty enthusiasts. </p>"
-          }
-        },
-        "question_rBeymU": {
-          "type": "question",
-          "settings": {
-            "title": "Is the makeup bag waterproof?",
-            "text": "<p>Yes, it is made from premium waterproof PU leather to help protect your beauty essentials.</p><p></p>"
-          }
-        },
-        "question_DDNUYA": {
-          "type": "question",
-          "settings": {
-            "title": "How many light modes does it have?",
-            "text": "<p>The mirror features <strong>3 adjustable light modes</strong> to help you achieve flawless makeup in any environment.</p><p></p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_tG7eHr",
-        "question_zGVbgk",
-        "question_rBeymU",
-        "question_DDNUYA"
-      ],
-      "name": "t:sections.faq.presets.name",
-      "settings": {
-        "narrow": false,
-        "secondary_background": false,
-        "show_divider": false,
-        "heading": "FAQs",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "heading_tag": "h2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -496,7 +447,6 @@
     "image_with_text_hTTM8C",
     "blocks_7JWRR6",
     "custom_liquid_RtmgxP",
-    "faq_nqzJ3i",
     "17817355280520955b",
     "guarantees_Yj7NaV",
     "1771850465e38b72c3"
